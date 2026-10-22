@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sina 👋
 
-<!--
-**amirinic/amirinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security Researcher | Bug Bounty Hunter
 
-Here are some ideas to get you started:
+I find and responsibly report vulnerabilities in web applications and APIs — focused on authorization flaws (IDOR/BOLA), auth bypass, and business-logic issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Featured Writeup
+
+**[BOLA in a Live-Streaming Platform's Developer API](https://github.com/amirinic/security-writeups/blob/main/bola-case-study.md)**
+A read-only developer API let any authenticated user pull any channel's full subscriber roster and donation ledger — a textbook Broken Object-Level Authorization bug. Reported, triaged, and fixed by the vendor.
+
+More writeups in [security-writeups](https://github.com/amirinic/security-writeups).
+
+## 🛠️ What I Work With
+
+`Burp Suite` `HTTP/API testing` `JavaScript/source review` `Authorization & auth-flow testing`
+
+---
+⭐ Check out my [security-writeups](https://github.com/amirinic/security-writeups) repo for detailed case studies.
